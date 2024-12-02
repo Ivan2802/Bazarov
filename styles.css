@@ -157,10 +157,13 @@ body{
         font-size: 30px;
     }
     .discription_image{
-        max-width: 300px;
+        max-width: 280px;
     }
     .init_content_templates_template{
         width: 90px;
-
+    }
+    .face_title, .mood_title{
+        font-size: 26px;
+        font-weight: bold;
     }
 }
