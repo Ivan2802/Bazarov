@@ -153,4 +153,14 @@ body{
     .wrapper{
         padding: 0 10px;
     }
+    .main_title{
+        font-size: 30px;
+    }
+    .discription_image{
+        max-width: 300px;
+    }
+    .init_content_templates_template{
+        width: 90px;
+
+    }
 }
